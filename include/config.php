@@ -7,6 +7,7 @@ date_default_timezone_set('Europe/Athens');
 header ('Content-type: text/html; charset=utf-8');
 // including connection information
 require_once('connection_data.php');
+//require_once('vendor/autoload.php');
 
 $version = "1.0.0";
 ?>

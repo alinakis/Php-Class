@@ -3,3 +3,5 @@ var/
 vendor/
 include/connection_data.php
 .vscode/sftp.json
+composer.json
+composer.lock
