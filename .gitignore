@@ -3,5 +3,6 @@ var/
 vendor/
 include/connection_data.php
 .vscode/sftp.json
+.vscode/settings.json
 composer.json
 composer.lock
